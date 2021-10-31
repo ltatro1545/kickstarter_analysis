@@ -8,6 +8,7 @@ The purpose of the executed analysis was to determine, using historical data fro
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92493572/139604848-c1e9b854-c85d-40df-aeaa-7a668b2370a3.png)
+
 [Figure 1]
 
 The first analysis looked at how kickstarters for plays performed based on the month they were launched in. Taking a quick glance at Figure 1 it is easy to determine that plays, across the board, are more often successful than not. The number of successful kickstarters for plays occurred the month of May (with a value of 111). Both sides of this point have noticably steady declines that sink toward the months of Decemember and January. From May to August, the successful kickstarters become more infrequent, yet the number of unsuccessful ones remains relatively flat. Becuase of this, the sheer number of successful kickstarts is not as important as the percentage of kickstarters that are successful. Kickstarters for plays in May had a 66.87% success rate while June had a 65.36% success rate. According to this chart, it would be best to launch Louise's kickstarter in the month of May, with June as the next best option.
