@@ -9,7 +9,7 @@ The purpose of the executed analysis was to determine, using historical data fro
 ### Analysis of Outcomes Based on Launch Date
 !(C:\Users\halov\OneDrive\Documents\DataBootCamp\Module1\KickstarterAnalysis\Module 1 Challenge\Module1ChallengeResources\OutcomesBasedOnLaunchDateChart.png)
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals(C:\Users\halov\OneDrive\Documents\DataBootCamp\Module1\KickstarterAnalysis\Module 1 Challenge\Module1ChallengeResources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals(C:\Users\halov\OneDrive\Documents\DataBootCamp\Module1\KickstarterAnalysis\Module 1 Challenge\Module1ChallengeResources\Outcomes_vs_Goals.png)]
 ### Challenges and Difficulties Encountered
 
 ## Results
