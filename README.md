@@ -7,9 +7,9 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+    ![OutcomesBasedOnLaunchDateChart](C:\Users\halov\OneDrive\Documents\DataBootCamp\Module1\KickstarterAnalysis\Module 1 Challenge\Module1ChallengeResources.png)
 ### Analysis of Outcomes Based on Goals
-
+    ![Outcomes_vs_Goals](C:\Users\halov\OneDrive\Documents\DataBootCamp\Module1\KickstarterAnalysis\Module 1 Challenge\Module1ChallengeResources.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
