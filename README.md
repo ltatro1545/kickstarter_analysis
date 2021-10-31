@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-    The purpose of the executed analysis was to determine, using historical data from thousands of other kickstarter projects, if Louise's kickstarter play idea would likely receive adequate funding.
+The purpose of the executed analysis was to determine, using historical data from thousands of other kickstarter projects, if Louise's kickstarter play idea would likely receive adequate funding.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
